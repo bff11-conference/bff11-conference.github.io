@@ -7,4 +7,3 @@ Plain static HTML served by GitHub Pages (no build step; `.nojekyll` disables Je
 - Pages: `index.html`, `committees.html`, `404.html`
 - Shared styles: `assets/css/style.css`; menu script: `assets/js/site.js`; logos and icons: `assets/img/`
 - The header/footer are repeated in each page; change them in every file.
-- Before launch: remove the `<meta name="robots" content="noindex">` line and the draft notice bar from every page.
